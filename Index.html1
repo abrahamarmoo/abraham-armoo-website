@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abraham Armoo - Electrician</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Abraham Armoo</h1>
+    <p>Professional Electrician - House Wiring, Troubleshooting, Renovation</p>
+</header>
+
+<nav>
+    <a href="#services">Services</a>
+    <a href="#gallery">Gallery</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section id="services">
+    <h2>My Services</h2>
+    <ul>
+        <li>House Wiring</li>
+        <li>Electrical Troubleshooting</li>
+        <li>Electrical Renovations</li>
+    </ul>
+</section>
+
+<section id="gallery">
+    <h2>Gallery</h2>
+    <p>Pictures and videos of my completed projects coming soon!</p>
+</section>
+
+<section id="contact">
+    <h2>Contact Me</h2>
+    <p>Email: <a href="mailto:abrahamarmoo04@gmail.com">abrahamarmoo04@gmail.com</a></p>
+    <p>Phone: +233 59 785 9504</p>
+    
+    <a href="https://wa.me/233597859504" target="_blank">
+        <button style="background-color: #25D366; color: white; padding: 10px 20px; border: none; border-radius: 5px; margin-top: 10px;">
+            Chat on WhatsApp
+        </button>
+    </a>
+
+    <form style="margin-top: 20px;">
+        <input type="text" placeholder="Your Name" required><br><br>
+        <input type="email" placeholder="Your Email" required><br><br>
+        <textarea placeholder="Your Message" required></textarea><br><br>
+        <button type="submit">Send Message</button>
+    </form>
+</section>
+
+<footer>
+    <p>&copy; 2025 Abraham Armoo. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
